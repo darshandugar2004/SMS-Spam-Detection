@@ -30,11 +30,10 @@ To run this Streamlit application on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/darshandugar2004/SMS-Spam-Detection
     cd your-repo-name
     ```
-    (Replace `your-username/your-repo-name` with your actual GitHub username and repository name.)
-
+    
 2.  **Create a virtual environment (recommended):**
     ```bash
     python -m venv venv
